@@ -1,5 +1,10 @@
 ### Hi there 👋
+ - 🎓 I'm in my last year in MSc. EE, specializing in software,
+ - 💼 I'm currently working as a developer intern @ Ericsson,
+ - 🌱 Soon releasing my latest personal project
 
+
+Feel free to contact me!
 <!--
 **Entjaman/Entjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
