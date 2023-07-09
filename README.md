@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 🎓 I'm in my last year in MSc. EE, specializing in software,
- - 💼 I'm currently working as a developer intern @ Ericsson,
- - 🌱 Soon releasing my latest personal project
+ - 💼 currently working as a developer intern @ Ericsson, and
+ - 🌱 soon releasing my latest personal project
 
 
 Feel free to contact me!
