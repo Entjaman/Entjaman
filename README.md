@@ -1,6 +1,6 @@
 ### Hi there 👋
- - 🎓 I'm in my last year in MSc. EE, specializing in software,
- - 💼 currently working as a developer intern @ Ericsson, and
+ - 🎓 I'm in my last year in M.Sc. E.E, specializing in software,
+ - 💼 currently working as a student intern baseband developer @ Ericsson, and
  - 🌱 soon releasing my latest personal project
 
 
