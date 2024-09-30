@@ -1,7 +1,7 @@
 ### Hi there 👋
- - 🎓 I'm in my last year in M.Sc. E.E, specializing in software,
- - 💼 currently doing my Master Thesis @ Ericsson, and
- - 🌱 soon releasing my latest personal project
+ - 🎓 M.Sc in Electrical Engineering,
+ - 💼 Consultant @ Netlight, and
+ - 🌱 Currently learning mobile apps, but at work I'm doing more large backend systems!
 
 
 Feel free to contact me!
