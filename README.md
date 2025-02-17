@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 🎓 M.Sc in Electrical Engineering,
  - 💼 Consultant @ Netlight, and
- - 🌱 Currently learning Actix & Axum, but at work I do a lot Java, Spring Boot and cloud!
+ - 🌱 Currently learning Actix & Axum, but at work I do a lot of Java, Spring Boot and cloud!
 
 
 Feel free to contact me!
