@@ -1,10 +1,8 @@
-### Hi there 👋
- - 🎓 M.Sc in Electrical Engineering,
- - 💼 Consultant @ Netlight, and
- - 🌱 Currently learning Actix & Axum, but at work I do a lot of Java, Spring Boot and cloud!
+### Hi 👋
+Software engineer based in Stockholm. I enjoy Rust & chess.
 
 
-Feel free to contact me!
+Feel free to reach out!
 <!--
 **Entjaman/Entjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
